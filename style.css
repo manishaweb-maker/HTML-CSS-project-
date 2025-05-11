@@ -1,0 +1,16 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: bisque;
+    transition: all;
+    transition-duration: 2s;
+}
+div:hover{
+    background-color: brown;
+}
+div:active{
+    background-color: blue;
+}
+.box-img{
+    height: 100px;
+}
